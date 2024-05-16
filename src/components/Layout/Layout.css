@@ -1,0 +1,38 @@
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-bottom: 1px solid black;
+}
+
+.Icons {
+    display: flex;
+    gap: 15px;
+}
+
+ul {
+    display: flex;
+    gap: 30px;
+    list-style-type: none;
+}
+
+.links a {
+    text-decoration: none;
+    color: rgb(0, 0, 0, 0.6);
+}
+
+.links a:hover {
+    color: black;
+    border-bottom: 2px solid rgb(0, 0, 0, 0.6);
+}
+
+.links a:focus {
+    color: black;
+    border-bottom: 2px solid rgb(0, 0, 0);
+}
+
+
+img {
+    width: 30px;
+    height: 30px;
+}
