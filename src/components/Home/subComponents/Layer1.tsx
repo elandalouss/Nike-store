@@ -1,5 +1,5 @@
 import PicLayer2 from '../../../assets/PicLayer2.jpg'
-import './Layer1.css'
+import './styles/Layer1.css'
 const Layer1 = () => {
   return (
     <div className="Layer1">
@@ -7,7 +7,7 @@ const Layer1 = () => {
         <img src={PicLayer2} alt="" />
       </div>
       <div className="sideText">
-        <h1>WE PROVIDE <span>HIGH</span></h1>
+        <h1 className='firstOne'>WE PROVIDE <span>HIGH</span></h1>
         <h1><span>QUALITY</span> SHOES</h1>
         <div className="paragraph">
           <p>Lorem ipsum dolor sit amet consectetur adipisicing</p>

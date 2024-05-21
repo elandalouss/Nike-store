@@ -5,6 +5,10 @@ nav {
     border-bottom: 1px solid black;
 }
 
+svg {
+    color: black;
+}
+
 .Icons {
     display: flex;
     gap: 15px;

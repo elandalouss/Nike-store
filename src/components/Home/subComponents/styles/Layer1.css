@@ -1,0 +1,30 @@
+.Layer1 {
+    display: flex;
+    margin-bottom: 50px;
+    margin-top: -50px;
+}
+
+span {
+    background-color: rgba(0, 0, 0);
+    color: white;
+    padding: 5px;
+    font-weight: bold;
+}
+
+.PicLayer2 {
+    margin-right: 130px;
+    margin-top: 50px;
+}
+
+.sideText h1 {
+    font-size: 60px;
+}
+
+.firstOne {
+    margin-bottom: -20px;
+}
+
+.sideText p {
+    font-size: 27px;
+    margin-top: -10px;
+}

@@ -1,0 +1,38 @@
+{"data" :[
+    {
+        "id" : 1,
+        "name" : "Nike",
+        "description" : "this is a small description to test",
+        "img" : "../../assets/1.png" 
+    },
+    {
+        "id" : 2,
+        "name" : "Nike",
+        "description" : "this is a small description to test",
+        "img" : "../../assets/2.png" 
+    },
+    {
+        "id" : 3,
+        "name" : "Nike",
+        "description" : "this is a small description to test",
+        "img" : "../../assets/3.png" 
+    },
+    {
+        "id" : 4,
+        "name" : "Nike",
+        "description" : "this is a small description to test",
+        "img" : "../../assets/4.png" 
+    },
+    {
+        "id" : 5,
+        "name" : "Nike",
+        "description" : "this is a small description to test",
+        "img" : "../../assets/5.png" 
+    },
+    {
+        "id" : 6,
+        "name" : "Nike",
+        "description" : "this is a small description to test",
+        "img" : "../../assets/6.png" 
+    }
+]}

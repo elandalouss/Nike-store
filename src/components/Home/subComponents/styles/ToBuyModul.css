@@ -1,0 +1,65 @@
+.ToBuyModul {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1000; 
+    background-color: #F0F0F0;
+    border-radius: 20px;
+    height: 90vh;
+    width: 90vw;
+}
+
+.close {
+    padding: 20px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    cursor: pointer;
+    font-size: 25px;
+}
+    
+.ToBuyModul img {
+    width: 1000px;
+}
+
+.buttons {
+    display: flex;
+    gap: 40px;
+    margin-bottom: 20px;
+}
+
+.learn_more {
+    border: 2px solid black;
+    padding: 20px 50px;
+    border-radius: 10px;
+    font-size: 24px;
+    font-weight: bold;
+
+}
+
+.learn_more:hover {
+    cursor: pointer;
+    border: 2px solid rgb(0, 0, 0, 0.3);
+    color: rgb(0, 0, 0, 0.5);
+    transition: 0.2s ease-in-out;
+    transform: scale(1.1); 
+}
+
+.add_To_pannel {
+    padding: 20px 50px;
+    border-radius: 10px;
+    background-color: black;
+    font-size: 24px;
+    font-weight: bold;
+    color: #C0C0C0;
+}
+
+.add_To_pannel:hover {
+    transition: 0.2s ease-in-out; 
+    transform: scale(1.1);
+}   

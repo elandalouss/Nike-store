@@ -1,4 +1,4 @@
-import './Header.css'
+import './styles/Header.css'
 import HeaderPic from '../../../assets/HeaderPic.png'
 const Header = () => {
   return (
